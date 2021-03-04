@@ -7,7 +7,7 @@ class Conexion:
     __USERNAME = 'postgres'
     __PASSWORD = 'admin'
     __DB_PORT = '5432'
-    __HOST = '127.0.0.1'
+    __HOST = 'localhost'
     __conexion = None
     __cursor = None
 
@@ -15,13 +15,13 @@ class Conexion:
     def obtenerConexion(cls):
         if cls.__conexion is None:
             try:
-                cls.__conexion = psycopg2.connect(user='postgres',
-                            password='admin',
-                            host='localhost',
-                            port='5432',
-                            database='test_db'
+                cls.__conexion = psycopg2.connect(host=cls.__HOST,
+                                                  user=cls.__USERNAME,
+                                                  password=cls.__PASSWORD,
+                                                  port=cls.__DB_PORT,
+                                                  database=cls.__DATABASE
                             )
-                logger.debug(f'Conexion exitosa: {cls.conexion}')
+                logger.debug(f'Conexion exitosa: {cls.__conexion}')
                 return cls.__conexion
             except Exception as e:
                 logger.error(f'Error al conectar a la BD: {e}')

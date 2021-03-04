@@ -28,3 +28,4 @@ WARNING:root:Se realizo la conexion con exito
 12:35:14 PM: DEBUG [logger_base.py]: 27 - mensaje a nivel de debug
 12:35:14 PM: ERROR [logger_base.py]: 28 - Ocurrio un error en la base de datos
 12:35:14 PM: WARNING [logger_base.py]: 29 - Se realizo la conexion con exito
+07:29:46 PM: ERROR [conexion.py]: 27 - Error al conectar a la BD: type object 'Conexion' has no attribute 'conexion'
