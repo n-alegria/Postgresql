@@ -1,0 +1,30 @@
+WARNING:root:mensaje a nivel de warning
+INFO:root:mensaje a nivel de info
+DEBUG:root:mensaje a nivel de debug
+ERROR:root:Ocurrio un error en la base de datos
+WARNING:root:Se realizo la conexion con exito
+2021-03-04 12:32:25,052: WARNING [logger_base.py]: 22
+2021-03-04 12:32:25,053: INFO [logger_base.py]: 23
+2021-03-04 12:32:25,054: DEBUG [logger_base.py]: 24
+2021-03-04 12:32:25,054: ERROR [logger_base.py]: 25
+2021-03-04 12:32:25,070: WARNING [logger_base.py]: 26
+2021-03-04 12:32:56,259: WARNING [logger_base.py]: 22 mensaje a nivel de warning
+2021-03-04 12:32:56,260: INFO [logger_base.py]: 23 mensaje a nivel de info
+2021-03-04 12:32:56,261: DEBUG [logger_base.py]: 24 mensaje a nivel de debug
+2021-03-04 12:32:56,262: ERROR [logger_base.py]: 25 Ocurrio un error en la base de datos
+2021-03-04 12:32:56,287: WARNING [logger_base.py]: 26 Se realizo la conexion con exito
+2021-03-04 12:33:06,292: WARNING [logger_base.py]: 22 - mensaje a nivel de warning
+2021-03-04 12:33:06,293: INFO [logger_base.py]: 23 - mensaje a nivel de info
+2021-03-04 12:33:06,294: DEBUG [logger_base.py]: 24 - mensaje a nivel de debug
+2021-03-04 12:33:06,295: ERROR [logger_base.py]: 25 - Ocurrio un error en la base de datos
+2021-03-04 12:33:06,320: WARNING [logger_base.py]: 26 - Se realizo la conexion con exito
+12:34:09 PM: WARNING [logger_base.py]: 24 - mensaje a nivel de warning
+12:34:09 PM: INFO [logger_base.py]: 25 - mensaje a nivel de info
+12:34:09 PM: DEBUG [logger_base.py]: 26 - mensaje a nivel de debug
+12:34:09 PM: ERROR [logger_base.py]: 27 - Ocurrio un error en la base de datos
+12:34:09 PM: WARNING [logger_base.py]: 28 - Se realizo la conexion con exito
+12:35:14 PM: WARNING [logger_base.py]: 25 - mensaje a nivel de warning
+12:35:14 PM: INFO [logger_base.py]: 26 - mensaje a nivel de info
+12:35:14 PM: DEBUG [logger_base.py]: 27 - mensaje a nivel de debug
+12:35:14 PM: ERROR [logger_base.py]: 28 - Ocurrio un error en la base de datos
+12:35:14 PM: WARNING [logger_base.py]: 29 - Se realizo la conexion con exito

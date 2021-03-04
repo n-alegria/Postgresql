@@ -1,0 +1,63 @@
+04:51:21 PM: ERROR [conexion.py]: 28 - Error al conextar a la base de datos: type object 'Conexion' has no attribute '_Conexion__USER'
+04:52:13 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: type object 'Conexion' has no attribute '_Conexion__USER'
+04:52:42 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: type object 'Conexion' has no attribute '_Conexion__USER'
+04:54:10 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: type object 'Conexion' has no attribute '_Conexion__USER'
+04:54:15 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: type object 'Conexion' has no attribute '_Conexion__USER'
+04:55:04 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: 
+04:59:25 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: 
+05:01:19 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: 
+05:02:28 PM: INFO [conexion.py]: 28 - Error al conectar a la base de datos: 
+05:02:41 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: 
+05:03:10 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: type object 'Conexion' has no attribute 'conexion'
+05:03:25 PM: ERROR [conexion.py]: 28 - Error al conectar a la base de datos: 
+05:06:21 PM: ERROR [conec.py]: 26 - Error al conectar a la BD: 
+05:07:06 PM: ERROR [conec.py]: 26 - Error al conectar a la BD: 
+05:07:22 PM: ERROR [conec.py]: 39 - Error al obtener cursor:'OperationalError' object has no attribute 'message'
+05:07:32 PM: ERROR [conec.py]: 26 - Error al conectar a la BD: 
+05:19:19 PM: ERROR [conexion.py]: 29 - Error al conectar a la BD: 
+05:19:19 PM: INFO [conexion.py]: 35 - None
+05:19:42 PM: ERROR [conexion.py]: 28 - Error al conectar a la BD: 
+05:19:42 PM: INFO [conexion.py]: 34 - None
+05:21:17 PM: ERROR [conec.py]: 26 - Error al conectar a la BD: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 57211?
+
+05:21:29 PM: ERROR [conec.py]: 26 - Error al conectar a la BD: could not connect to server: Connection refused (0x0000274D/10061)
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 57311?
+
+05:21:50 PM: ERROR [conec.py]: 26 - Error al conectar a la BD: 
+05:22:07 PM: ERROR [conec.py]: 38 - Error al obtener cursor:'NoneType' object has no attribute 'cursor'
+05:22:48 PM: INFO [conec.py]: 58 - None
+05:22:48 PM: DEBUG [conec.py]: 55 - Se han cerrado los objetos de conexión y cursor
+05:23:12 PM: ERROR [conec.py]: 26 - Error al conectar a la BD: 
+05:29:59 PM: INFO [conec.py]: 26 - <bound method Conexion.obtenerConexion of <class '__main__.Conexion'>>
+05:31:26 PM: INFO [conec.py]: 28 - None
+05:31:58 PM: INFO [conec.py]: 28 - None
+05:33:03 PM: INFO [conec.py]: 28 - None
+05:33:31 PM: INFO [conec.py]: 28 - None
+05:43:00 PM: ERROR [conexion.py]: 26 - Error al conectar a la BD: 
+05:43:37 PM: ERROR [conexion.py]: 26 - Error al conectar a la BD: 
+05:43:49 PM: ERROR [conexion.py]: 26 - Error al conectar a la BD: type object 'Conexion' has no attribute 'conexion'
+05:44:21 PM: ERROR [conexion.py]: 26 - Error al conectar a la BD: 
+05:45:14 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: invalid dsn: invalid connection option "database"
+
+05:46:00 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: invalid dsn: invalid connection option "database"
+
+05:46:10 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: invalid dsn: invalid connection option "database"
+
+05:46:17 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: invalid dsn: invalid connection option "database"
+
+05:46:46 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: could not match 2 port numbers to 1 hosts
+
+05:47:10 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: invalid port number: "cls.__DB_PORT"
+invalid port number: "cls.__DB_PORT"
+
+05:47:38 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: invalid port number: "cls.__DB_PORT"
+invalid port number: "cls.__DB_PORT"
+
+05:48:00 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: invalid port number: "cls.__DB_PORT"
+invalid port number: "cls.__DB_PORT"
+
+05:48:43 PM: ERROR [conexion.py]: 22 - Error al conectar a la BD: 
+05:54:30 PM: ERROR [conexion.py]: 27 - Error al conectar a la BD: 
